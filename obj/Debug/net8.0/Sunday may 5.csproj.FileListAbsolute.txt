@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\bin\Debug\net8.0\Sunday may 5.exe
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\bin\Debug\net8.0\Sunday may 5.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\bin\Debug\net8.0\Sunday may 5.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\bin\Debug\net8.0\Sunday may 5.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\bin\Debug\net8.0\Sunday may 5.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\obj\Debug\net8.0\Sunday may 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\obj\Debug\net8.0\Sunday may 5.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\obj\Debug\net8.0\Sunday may 5.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\obj\Debug\net8.0\Sunday may 5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\obj\Debug\net8.0\Sunday may 5.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\obj\Debug\net8.0\refint\Sunday may 5.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\obj\Debug\net8.0\Sunday may 5.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\obj\Debug\net8.0\Sunday may 5.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Aliakbar\Sunday may 5\obj\Debug\net8.0\ref\Sunday may 5.dll
